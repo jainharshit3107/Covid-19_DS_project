@@ -14,7 +14,7 @@ https://public.tableau.com/app/profile/hrithik.nigam/viz/MajorProject_1626261885
 ![](tableau_sample.jpg)
 Above is a sample image of tableau public can visit it via link.<br>
 
-In Tableau part have done visulatization for-
+In Tableau part have done visualization for-
 1.   Calender Graph - Active Cases
 2.   Map Chart 
 3.   Trend Analysis - Cases and Vaccination wrt Date
